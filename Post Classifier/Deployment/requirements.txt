@@ -1,0 +1,6 @@
+
+tokenizers==0.9.4
+simpletransformers
+Flask
+beautifulsoup4
+lxml
