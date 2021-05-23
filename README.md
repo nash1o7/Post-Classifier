@@ -1,3 +1,3 @@
 # Post-Classifier
 
-Category wise post classifier & Basic Recommender
+Category wise post classifier & Basic Recommender deployed using flask.
