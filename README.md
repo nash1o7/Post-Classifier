@@ -5,7 +5,7 @@ Category wise post classifier & Basic Recommender deployed using flask.
 Dataset contains 5 categories:
 'Getting Started', 'Get Help', 'Community', 'Projects', 'FAQ'
 
-Distribution of Categories:
+**Distribution of Categories:**
 
 ![Screenshot (587)](https://user-images.githubusercontent.com/56560771/128639703-a50a08b0-e09b-4773-bcb8-3d8ffe976030.png)
 
@@ -39,5 +39,24 @@ Wordcloud of different categories of frequent words:
 ![Screenshot (593)](https://user-images.githubusercontent.com/56560771/128639925-82930346-f735-4f7b-8563-a6db04a5b1f2.png)
 
 
+**Sentiment Analysis:**
+Polarity of different Categories:
+
+![Screenshot (595)](https://user-images.githubusercontent.com/56560771/128640020-fadcf671-9193-47d0-a302-13ae90e47748.png)
+
+
+**Post Recommender:**
+
+
+![Screenshot (596)](https://user-images.githubusercontent.com/56560771/128640084-6f32124e-5f40-43ae-aca8-c6103ab2a04f.png)
+
+
+
+**Flask App Demo:**
+
+![Screenshot (599)](https://user-images.githubusercontent.com/56560771/128640138-3645226d-c327-4d06-ba63-a8d1271fd316.png)
+
+
+![Screenshot (600)](https://user-images.githubusercontent.com/56560771/128640157-55d20cb7-6802-4d0f-93fd-46b4174e3c67.png)
 
 
